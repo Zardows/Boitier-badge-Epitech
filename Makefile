@@ -19,6 +19,6 @@ fclean: clean
 
 re:    fclean all
 
-testRun: re
+tests_run: re
 	
 .PHONY: all clean fclean re
